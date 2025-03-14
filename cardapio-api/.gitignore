@@ -1,0 +1,11 @@
+# Ignore arquivos do Maven
+target/
+*.log
+
+# Ignore arquivos do IDE
+*.iml
+.idea/
+.vscode/
+
+# Ignore o banco H2
+*.db
